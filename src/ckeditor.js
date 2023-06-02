@@ -29,6 +29,7 @@ Editor.builtinPlugins = [
   Paragraph,
   RemoveFormat,
   Underline,
+  Mention,
 ];
 
 // Editor configuration.
